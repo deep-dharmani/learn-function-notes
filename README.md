@@ -20,8 +20,11 @@ Topics Covered:
 Purpose:
 The main goal of this repository is to strengthen my understanding of Python functions through simple explanations, code examples,
 and regular practice.
+
 Language:python
+
 Author: Deep Dharmani
+
 [GitHub Profile](https://github.com/deep-dharmani)
 
 *This repository is part of my Python learning journey. I will continue updating it as I learn new concepts and improve my coding skills.*
