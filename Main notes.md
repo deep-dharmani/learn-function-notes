@@ -6,7 +6,7 @@
 
            when we use a print in def of function it will just display our print statement and if we want to store that in a variable it will not because it only print something in our  output and return will give acctual result of our function and we  easily store that value inside any variable and we use that variable at any time it will directly shows that returned value.
 
-default arguements:
+>default arguements:
 
      when we call a function and  pass nothing in parenthesis as arguement then it will give eror but if we add a default arguement when we def a function and in parenthesis of function parameter = that default arguement and now if pass nothing  at the place of that parameter then it will take that default value.
 
